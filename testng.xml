@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Fernanda/eclipse-workspace/Prueba1/src">
+        <classes>
+            <class name="Laboratorio3"/>
+            <class name="practica1"/>
+            <class name="Laboratorio4"/>
+        </classes>
+    </test>
+</suite>
